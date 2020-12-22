@@ -1,0 +1,12 @@
+C:\Users\Claudio\source\repos\uri1004\uri1004\bin\Debug\netcoreapp3.1\uri1004.exe
+C:\Users\Claudio\source\repos\uri1004\uri1004\bin\Debug\netcoreapp3.1\uri1004.deps.json
+C:\Users\Claudio\source\repos\uri1004\uri1004\bin\Debug\netcoreapp3.1\uri1004.runtimeconfig.json
+C:\Users\Claudio\source\repos\uri1004\uri1004\bin\Debug\netcoreapp3.1\uri1004.runtimeconfig.dev.json
+C:\Users\Claudio\source\repos\uri1004\uri1004\bin\Debug\netcoreapp3.1\uri1004.dll
+C:\Users\Claudio\source\repos\uri1004\uri1004\bin\Debug\netcoreapp3.1\uri1004.pdb
+C:\Users\Claudio\source\repos\uri1004\uri1004\obj\Debug\netcoreapp3.1\uri1004.AssemblyInfoInputs.cache
+C:\Users\Claudio\source\repos\uri1004\uri1004\obj\Debug\netcoreapp3.1\uri1004.AssemblyInfo.cs
+C:\Users\Claudio\source\repos\uri1004\uri1004\obj\Debug\netcoreapp3.1\uri1004.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\uri1004\uri1004\obj\Debug\netcoreapp3.1\uri1004.dll
+C:\Users\Claudio\source\repos\uri1004\uri1004\obj\Debug\netcoreapp3.1\uri1004.pdb
+C:\Users\Claudio\source\repos\uri1004\uri1004\obj\Debug\netcoreapp3.1\uri1004.genruntimeconfig.cache
