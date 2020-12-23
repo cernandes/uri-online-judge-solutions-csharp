@@ -6,15 +6,19 @@ namespace uri1010
     {
         static void Main(string[] args)
         {
-            int codP1 = int.Parse(Console.ReadLine());
-            int p1Amount = int.Parse(Console.ReadLine());
-            double priceP1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            string[] vetor1 = Console.ReadLine().Split(' ');
 
-            int codP2 = int.Parse(Console.ReadLine());
-            int p2Amount = int.Parse(Console.ReadLine());
-            double priceP2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            int codP1 = int.Parse(vetor1[0]);
+            int p1Amount = int.Parse(vetor1[1]);
+            double priceP1 = double.Parse(vetor1[2], CultureInfo.InvariantCulture);
 
-            double totalPrice = p1Amount * priceP1 + p2Amount * priceP2;
+           string[] vetor2 = Console.ReadLine().Split(' ');
+
+            int codP2 = int.Parse(vetor2[0]);
+            int p2Amount = int.Parse(vetor2[1]);
+            double priceP2 = double.Parse(vetor2[2], CultureInfo.InvariantCulture);
+
+            double totalPrice = (double) p1Amount * priceP1 + p2Amount * priceP2;
 
             Console.WriteLine("VALOR A PAGAR: R$ " + totalPrice.ToString("F2", CultureInfo.InvariantCulture));
         }

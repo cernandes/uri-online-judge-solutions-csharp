@@ -1,0 +1,13 @@
+C:\temp\ws-visual-studio\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.exe
+C:\temp\ws-visual-studio\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.deps.json
+C:\temp\ws-visual-studio\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.runtimeconfig.json
+C:\temp\ws-visual-studio\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.runtimeconfig.dev.json
+C:\temp\ws-visual-studio\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.dll
+C:\temp\ws-visual-studio\uri1018\uri1018\bin\Debug\netcoreapp3.1\uri1018.pdb
+C:\temp\ws-visual-studio\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.csprojAssemblyReference.cache
+C:\temp\ws-visual-studio\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.AssemblyInfoInputs.cache
+C:\temp\ws-visual-studio\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.AssemblyInfo.cs
+C:\temp\ws-visual-studio\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.csproj.CoreCompileInputs.cache
+C:\temp\ws-visual-studio\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.dll
+C:\temp\ws-visual-studio\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.pdb
+C:\temp\ws-visual-studio\uri1018\uri1018\obj\Debug\netcoreapp3.1\uri1018.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\temp\ws-visual-studio\uri1012\uri1012\obj\Debug\netcoreapp3.1\uri1012.csprojAssemblyReference.cache
+C:\temp\ws-visual-studio\uri1012\uri1012\obj\Debug\netcoreapp3.1\uri1012.AssemblyInfoInputs.cache
+C:\temp\ws-visual-studio\uri1012\uri1012\obj\Debug\netcoreapp3.1\uri1012.AssemblyInfo.cs
+C:\temp\ws-visual-studio\uri1012\uri1012\obj\Debug\netcoreapp3.1\uri1012.csproj.CoreCompileInputs.cache
+C:\temp\ws-visual-studio\uri1012\uri1012\bin\Debug\netcoreapp3.1\uri1012.exe
+C:\temp\ws-visual-studio\uri1012\uri1012\bin\Debug\netcoreapp3.1\uri1012.deps.json
+C:\temp\ws-visual-studio\uri1012\uri1012\bin\Debug\netcoreapp3.1\uri1012.runtimeconfig.json
+C:\temp\ws-visual-studio\uri1012\uri1012\bin\Debug\netcoreapp3.1\uri1012.runtimeconfig.dev.json
+C:\temp\ws-visual-studio\uri1012\uri1012\bin\Debug\netcoreapp3.1\uri1012.dll
+C:\temp\ws-visual-studio\uri1012\uri1012\bin\Debug\netcoreapp3.1\uri1012.pdb
+C:\temp\ws-visual-studio\uri1012\uri1012\obj\Debug\netcoreapp3.1\uri1012.dll
+C:\temp\ws-visual-studio\uri1012\uri1012\obj\Debug\netcoreapp3.1\uri1012.pdb
+C:\temp\ws-visual-studio\uri1012\uri1012\obj\Debug\netcoreapp3.1\uri1012.genruntimeconfig.cache
