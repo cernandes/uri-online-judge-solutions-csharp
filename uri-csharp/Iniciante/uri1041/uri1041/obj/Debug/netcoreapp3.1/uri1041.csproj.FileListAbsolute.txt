@@ -1,0 +1,13 @@
+C:\temp\ws-visual-studio\uri1041\uri1041\bin\Debug\netcoreapp3.1\uri1041.exe
+C:\temp\ws-visual-studio\uri1041\uri1041\bin\Debug\netcoreapp3.1\uri1041.deps.json
+C:\temp\ws-visual-studio\uri1041\uri1041\bin\Debug\netcoreapp3.1\uri1041.runtimeconfig.json
+C:\temp\ws-visual-studio\uri1041\uri1041\bin\Debug\netcoreapp3.1\uri1041.runtimeconfig.dev.json
+C:\temp\ws-visual-studio\uri1041\uri1041\bin\Debug\netcoreapp3.1\uri1041.dll
+C:\temp\ws-visual-studio\uri1041\uri1041\bin\Debug\netcoreapp3.1\uri1041.pdb
+C:\temp\ws-visual-studio\uri1041\uri1041\obj\Debug\netcoreapp3.1\uri1041.csprojAssemblyReference.cache
+C:\temp\ws-visual-studio\uri1041\uri1041\obj\Debug\netcoreapp3.1\uri1041.AssemblyInfoInputs.cache
+C:\temp\ws-visual-studio\uri1041\uri1041\obj\Debug\netcoreapp3.1\uri1041.AssemblyInfo.cs
+C:\temp\ws-visual-studio\uri1041\uri1041\obj\Debug\netcoreapp3.1\uri1041.csproj.CoreCompileInputs.cache
+C:\temp\ws-visual-studio\uri1041\uri1041\obj\Debug\netcoreapp3.1\uri1041.dll
+C:\temp\ws-visual-studio\uri1041\uri1041\obj\Debug\netcoreapp3.1\uri1041.pdb
+C:\temp\ws-visual-studio\uri1041\uri1041\obj\Debug\netcoreapp3.1\uri1041.genruntimeconfig.cache

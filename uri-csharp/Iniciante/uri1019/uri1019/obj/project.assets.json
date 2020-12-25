@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\ws-visual-studio\\uri1019\\uri1019\\uri1019.csproj",
+      "projectUniqueName": "C:\\temp\\ws-visual-studio\\uri\\uri-csharp\\Iniciante\\uri1019\\uri1019\\uri1019.csproj",
       "projectName": "uri1019",
-      "projectPath": "C:\\temp\\ws-visual-studio\\uri1019\\uri1019\\uri1019.csproj",
+      "projectPath": "C:\\temp\\ws-visual-studio\\uri\\uri-csharp\\Iniciante\\uri1019\\uri1019\\uri1019.csproj",
       "packagesPath": "C:\\Users\\Claudio\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\ws-visual-studio\\uri1019\\uri1019\\obj\\",
+      "outputPath": "C:\\temp\\ws-visual-studio\\uri\\uri-csharp\\Iniciante\\uri1019\\uri1019\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
